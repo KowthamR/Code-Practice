@@ -14,4 +14,5 @@ def password():
     print(random.choice(symbol))
     
 password()
+password()
 
